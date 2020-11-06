@@ -12,5 +12,6 @@ git clone https://github.com/firman102/class.git
 git branch -a
 
 ### masuk ke dalam branch:
-git checkout days-3
-
+git checkout day-3
+git checkout day-4
+git checkout day-5
