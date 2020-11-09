@@ -13,5 +13,7 @@ git branch -a
 
 ### masuk ke dalam branch:
 git checkout day-3
+
 git checkout day-4
+
 git checkout day-5
